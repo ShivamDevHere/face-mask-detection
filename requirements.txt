@@ -56,3 +56,4 @@ wcwidth==0.9.4
 wrapt==2.5.1
 numpy
 matplotlib
+opencv-python
