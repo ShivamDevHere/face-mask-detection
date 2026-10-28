@@ -1,4 +1,0 @@
-- Step 1: Load and understand the dataset
-- Step 2: Display a sample image
-- Step 3: Check image dimensions
-- Step 4: Load all images
