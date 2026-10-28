@@ -57,3 +57,4 @@ wrapt==2.5.1
 numpy
 matplotlib
 opencv-python
+scikit-learn
