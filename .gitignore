@@ -2,3 +2,34 @@
 dataset/
 model/
 model*.keras
+test.py
+
+# Virtual Environment
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# Dataset
+dataset/
+
+# Model files (large)
+*.h5
+*.keras
+*.tflite
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
